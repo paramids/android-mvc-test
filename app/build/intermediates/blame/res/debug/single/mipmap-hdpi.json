@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ipanera/AndroidStudioProjects/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/ipanera/AndroidStudioProjects/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/opt/kaa/App/sample-apps-master/gpiocontrol/source/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/opt/kaa/App/sample-apps-master/gpiocontrol/source/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

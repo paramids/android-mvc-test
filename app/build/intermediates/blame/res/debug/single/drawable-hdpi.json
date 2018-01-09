@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/ipanera/AndroidStudioProjects/android/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_add_white_24dp.png",
+        "source": "/home/ipanera/AndroidStudioProjects/android/app/src/main/res/drawable-hdpi/ic_add_white_24dp.png"
+    },
+    {
+        "merged": "/opt/kaa/App/sample-apps-master/gpiocontrol/source/android/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_add_white_24dp.png",
+        "source": "/opt/kaa/App/sample-apps-master/gpiocontrol/source/android/app/src/main/res/drawable-hdpi/ic_add_white_24dp.png"
+    },
+    {
+        "merged": "/opt/kaa/App/sample-apps-master/gpiocontrol/source/android/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_refresh_black_24dp.png",
+        "source": "/opt/kaa/App/sample-apps-master/gpiocontrol/source/android/app/src/main/res/drawable-hdpi/ic_refresh_black_24dp.png"
+    },
+    {
+        "merged": "/home/ipanera/AndroidStudioProjects/android/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_refresh_black_24dp.png",
+        "source": "/home/ipanera/AndroidStudioProjects/android/app/src/main/res/drawable-hdpi/ic_refresh_black_24dp.png"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/opt/kaa/App/sample-apps-master/gpiocontrol/source/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/opt/kaa/App/sample-apps-master/gpiocontrol/source/android/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 917,
+                        "endColumn": 57,
+                        "endOffset": 970
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/ipanera/AndroidStudioProjects/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/ipanera/AndroidStudioProjects/android/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 917,
+                        "endColumn": 57,
+                        "endOffset": 970
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ipanera/AndroidStudioProjects/android/app/build/intermediates/res/merged/debug/menu/menu_device_list.xml",
+        "source": "/home/ipanera/AndroidStudioProjects/android/app/src/main/res/menu/menu_device_list.xml"
+    },
+    {
+        "merged": "/opt/kaa/App/sample-apps-master/gpiocontrol/source/android/app/build/intermediates/res/merged/debug/menu/menu_device_list.xml",
+        "source": "/opt/kaa/App/sample-apps-master/gpiocontrol/source/android/app/src/main/res/menu/menu_device_list.xml"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/opt/kaa/App/sample-apps-master/gpiocontrol/source/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/opt/kaa/App/sample-apps-master/gpiocontrol/source/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/opt/kaa/App/sample-apps-master/gpiocontrol/source/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/opt/kaa/App/sample-apps-master/gpiocontrol/source/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/ipanera/AndroidStudioProjects/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/ipanera/AndroidStudioProjects/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/opt/kaa/App/sample-apps-master/gpiocontrol/source/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/opt/kaa/App/sample-apps-master/gpiocontrol/source/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/ipanera/AndroidStudioProjects/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/ipanera/AndroidStudioProjects/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/ipanera/AndroidStudioProjects/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/ipanera/AndroidStudioProjects/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/opt/kaa/App/sample-apps-master/gpiocontrol/source/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/opt/kaa/App/sample-apps-master/gpiocontrol/source/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/ipanera/AndroidStudioProjects/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/ipanera/AndroidStudioProjects/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout-v21/notification_action_tombstone.xml"
+    }
+]
